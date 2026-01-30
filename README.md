@@ -1,6 +1,6 @@
 # C++ Programs Collection
 
-This repository contains a set of C++ programs I practiced and developed during my second semester while studying Object Oriented Programming in C++. The collection demonstrates a wide range of C++ concepts, from the basics to more advanced topics. Each file focuses on a specific feature or problem, making this a practical resource for students and programmers looking to strengthen their C++ skills.
+This repository contains a set of C++ programs I practiced and developed during my second semester (2022/23) while studying Object Oriented Programming in C++. The collection demonstrates a wide range of C++ concepts, from the basics to more advanced topics. Each file focuses on a specific feature or problem, making this a practical resource for students and programmers looking to strengthen their C++ skills.
 
 ## Topics Covered
 
